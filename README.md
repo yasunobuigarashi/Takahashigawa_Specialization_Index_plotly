@@ -1,0 +1,2 @@
+# Takahashigawa_Specialization_Index_plotly
+高梁川流域圏 特化係数
